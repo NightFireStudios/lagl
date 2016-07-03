@@ -1,0 +1,17 @@
+importing:
+
+1.right click on your project
+
+2.click properties
+
+3.click java build path
+
+4.click Libraries
+
+5.click add external jars put in the path to the latest version of lagl .jar file.
+
+help:
+
+1.go to file system go to the place where the lagls are stored
+
+2.clickthe folder examples click the java documents
